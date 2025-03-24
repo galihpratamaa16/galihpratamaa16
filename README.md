@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Galih Pratama Herawan Putra]
+### Hi there! 👋 I'm Galih Pratama Herawan Putra
 
 🚀 **IoT & Web Developer | Member of Software Engineering Association**  
 💡 Passionate about building smart systems, automation, and interactive web applications.  

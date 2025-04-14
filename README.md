@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Galih Pratama Herawan Putra
 
-🚀 **IoT & Web Developer | Member of Software Engineering Association**  
+🚀 **IoT & Web Developer | Member of Software Engineering Association Garut University**  
 💡 Passionate about building smart systems, automation, and interactive web applications.  
 📌 Always exploring new technologies and creating impactful projects.
 
